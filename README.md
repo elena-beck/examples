@@ -1,2 +1,2 @@
 # examples
-Try examples
+My examples
